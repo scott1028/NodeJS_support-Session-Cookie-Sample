@@ -5,9 +5,9 @@
     <ignored path="UserCMS.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/layout.jade" changelist="5fd4d142-b3fc-455d-b766-167aa9c3f59c" time="1373793743259" ignored="false" />
-    <file path="/app.js" changelist="5fd4d142-b3fc-455d-b766-167aa9c3f59c" time="1373793908152" ignored="false" />
+    <file path="/app.js" changelist="5fd4d142-b3fc-455d-b766-167aa9c3f59c" time="1373798843208" ignored="false" />
     <file path="/user.js" changelist="5fd4d142-b3fc-455d-b766-167aa9c3f59c" time="1373797986547" ignored="false" />
-    <file path="/index.js" changelist="5fd4d142-b3fc-455d-b766-167aa9c3f59c" time="1373798087687" ignored="false" />
+    <file path="/index.js" changelist="5fd4d142-b3fc-455d-b766-167aa9c3f59c" time="1373799142643" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +30,16 @@
       <file leaf-file-name="index.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/routes/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="68" selection-start="193" selection-end="193" vertical-scroll-proportion="0.26902655">
+            <state line="16" column="10" selection-start="425" selection-end="425" vertical-scroll-proportion="0.5380531">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="19" selection-start="818" selection-end="826" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -56,8 +65,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/views/layout.jade" />
-        <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/routes/user.js" />
+        <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/routes/index.js" />
       </list>
     </option>
@@ -184,7 +193,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33069083" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33069083" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -265,7 +274,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="54" selection-start="316" selection-end="316" vertical-scroll-proportion="0.50442475">
+        <state line="32" column="19" selection-start="818" selection-end="826" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -279,7 +288,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="68" selection-start="193" selection-end="193" vertical-scroll-proportion="0.26902655">
+        <state line="16" column="10" selection-start="425" selection-end="425" vertical-scroll-proportion="0.5380531">
           <folding />
         </state>
       </provider>

@@ -30,6 +30,7 @@ if ('development' == app.get('env')) {
   app.use(express.errorHandler());
 }
 
+app.all('*',routes.userAuth);
 app.get('/', routes.index);
 app.get('/users', user.list);
 
